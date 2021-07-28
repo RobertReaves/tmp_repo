@@ -1,0 +1,19 @@
+{
+  "name": "tmp_repo",
+  "version": "0.0.0",
+  "description": "delete afer use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertReaves/tmp_repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertReaves/tmp_repo/issues"
+  },
+  "homepage": "https://github.com/RobertReaves/tmp_repo#readme"
+}
